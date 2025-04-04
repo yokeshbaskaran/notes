@@ -11,11 +11,11 @@ Study notes
 
 ## 🛠 Tech Stack
 
-- **Frontend:** React.js (with React Query for state management)
+- **Frontend:** React.js & Tailwind CSS (with React Query for state management)
 - **Backend:** Node.js & Express.js
-- **Database:** MongoDB (Mongoose ORM)
+- **Database:** MongoDB (Mongoose)
 - **Authentication:** JWT (JSON Web Token)
-- **Hosting:** Render (or specify if using another service)
+- **Hosting:** Render
 
 ---
 
@@ -25,14 +25,16 @@ Study notes
 ✅ Create, read, update, and delete (CRUD) tweets  
 ✅ Like and interact with tweets  
 ✅ Responsive design for mobile and desktop  
-✅ Error handling & toast notifications  
+✅ Error handling & toast notifications
 
 ---
 
 ## 🚀 Installation & Setup
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/tweets-of-messages.git
-   cd tweets-of-messages
+#### **Clone the repository**
+
+```bash
+git clone https://github.com/yourusername/tweets-of-messages.git
+cd tweets-of-messages
+```
 
