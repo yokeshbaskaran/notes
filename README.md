@@ -12,11 +12,9 @@ Issue Tracking System
 
 ## 🛠 Tech Stack
 
-**Tech Stack used:**
+ 
 
-- **Tech Stack used:**
-
-- - Next.js
+  - Next.js
 - - - Next.js
 - - - - Next.js
 - - - - - Next.js
