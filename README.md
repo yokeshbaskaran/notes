@@ -12,15 +12,18 @@ Issue Tracking System
 
 ## 🛠 Tech Stack
 
- 
-  - Next.js 
-      - Next.js
+- Next.js
 - Tailwind
 - Typescript
 - Radix UI
+
+**Backend + DB:**
+
 - Prisma
 - PostgreSQL
 - Supabase
+
+### Packages used:
 
 - react-icons
 - classNames (conditional)
@@ -30,11 +33,18 @@ Issue Tracking System
 - React Hook form
 - axios
 - hookform/resolvers
-- **Backend:** Node.js & Express.js
-- **Database:** MongoDB (Mongoose)
+
 - **Hosting:** Vercel
 
 ## 🚀 Installation & Setup
+
+### Set up environment variables
+
+```bash
+DATABASE_URL=
+DIRECT_URL=
+```
+
 
 ### Set up environment variables
 
