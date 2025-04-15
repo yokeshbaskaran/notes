@@ -13,11 +13,8 @@ Issue Tracking System
 ## 🛠 Tech Stack
 
  
-
-  - Next.js
-- - - Next.js
-- - - - Next.js
-- - - - - Next.js
+  - Next.js 
+      - Next.js
 - Tailwind
 - Typescript
 - Radix UI
